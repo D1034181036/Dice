@@ -1,6 +1,6 @@
 # Online Demo
 
-https://d1034181036.github.io/DiceGame/
+https://d1034181036.github.io/DiceGame_assignment/
 
 # Preview
 
